@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Aluna: Nayara Almeida - Desafio Novato
 // Info Professor Estacio: Adicionei notas ao codigo afim de facilitar o meu entendimento conforme escrevia.Peco desculpas pelo excesso de comentarios.
 
 // importa a biblioteca de Input e output para escrever na tela e ler no teclado.
